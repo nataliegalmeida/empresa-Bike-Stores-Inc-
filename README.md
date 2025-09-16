@@ -1,5 +1,7 @@
 
-## Primeiramente fiz a  analise do o banco de dados para entender quais quais eram relacões entre as tabelas 
+## Primeiramente fiz a  analise do o banco de dados para entender quais quais eram relacões entre as tabelas - ## Trata-se da entrega  do projeto para vaga de analista de sistemas
+Este projeto foi feito em MS-SQL
+
 ### Explicação:Usamos LEFT JOIN para trazer todos os clientes.
 
 1. Listar todos os clientes que não tenham realizado uma compra
